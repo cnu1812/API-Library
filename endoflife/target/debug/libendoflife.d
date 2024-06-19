@@ -1,0 +1,1 @@
+/workspaces/API-Library/endoflife/target/debug/libendoflife.rlib: /workspaces/API-Library/endoflife/src/lib.rs /workspaces/API-Library/endoflife/src/request.rs /workspaces/API-Library/endoflife/src/rust.rs
